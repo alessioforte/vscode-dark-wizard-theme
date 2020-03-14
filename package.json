@@ -1,0 +1,42 @@
+{
+	"name": "dark-wizard-theme",
+	"displayName": "Dark Wizard Theme",
+	"description": "",
+	"version": "0.0.1",
+	"publisher": "",
+	"author": "Alessio Forte",
+	"galleryBanner": {
+		"color": "#11131C",
+		"theme": "dark"
+	},
+	"engines": {
+		"node": "<=10",
+		"vscode": "^1.41.0"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"keywords": [
+		"VSCode",
+		"Themes"
+	],
+	"extensionKind": [
+		"ui",
+		"workspace"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark Wizard",
+				"path": "./themes/Dark-Wizard.json",
+				"uiTheme": "vs-dark"
+			},
+			{
+				"label": "Dark Wizard High Contrast",
+				"path": "./themes/Dark-Wizard-High-Contrast.json",
+				"uiTheme": "vs-dark"
+			}
+		]
+	}
+}
