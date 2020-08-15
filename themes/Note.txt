@@ -1,0 +1,29 @@
+Theme
+
+const  storage { "foreground": "#F17DBF" }
+storage { "foreground": "#F17DBF" }
+
+Import  keyword.control { "foreground": "#A3F7FF" }
+keyword.control { "foreground": "#A3F7FF" }
+
+meta.object-literal.key.js { "foreground": "#D0FFEF" }
+
+support.constant { "foreground": "#FC9F59" }
+
+variable.other.object.property.js { "foreground": "#ABB2BF" }
+
+entity.name.type { "foreground": "#FFCB6B" }
+
+string { "foreground": "#ADFC97" }
+
+entity.name.function.js { "foreground": "#61AFEF" }
+
+keyword.control.trycatch.js { "foreground": "#A3F7FF" }
+
+variable.other.constant.js { "foreground": "#D3666F" }
+
+=== source.js keyword.operator { "foreground": "#56B6C2" }
+
+keyword.operator.logical.js { "foreground": "#A3F7FF" }
+
+source.js keyword.operator { "foreground": "#56B6C2" }
