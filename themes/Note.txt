@@ -27,3 +27,22 @@ variable.other.constant.js { "foreground": "#D3666F" }
 keyword.operator.logical.js { "foreground": "#A3F7FF" }
 
 source.js keyword.operator { "foreground": "#56B6C2" }
+
+
+
+
+VSCODE
+
+"tab.border": "#1a1a1a",
+"statusBar.border": "#1a1a1a",
+"panel.border": "#1a1a1a",
+"activityBar.border": "#1a1a1a",
+"titleBar.border": "#1a1a1a",
+"sideBar.border": "#1a1a1a",
+"sideBarSectionHeader.border": "#1a1a1a",
+
+"tab.inactiveBackground": "#1a1a1a",
+"editorGroupHeader.tabsBackground": "#1a1a1a",
+
+#212121
+#1a1a1a
